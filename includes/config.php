@@ -11,9 +11,9 @@ setlocale(LC_ALL, 'nl_NL');
 
 // Database settings
 define('DB_HOST','localhost');
-define('DB_NAME','20670_myband');
-define('DB_USERNAME','20670_myband');
-define('DB_PASSWORD','Myband');
+define('DB_NAME','world');
+define('DB_USERNAME','root');
+define('DB_PASSWORD','root');
 
 define('NR_ITEMS_PER_PAGE',3);
 

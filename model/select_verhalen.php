@@ -8,4 +8,4 @@ $result2 = $mysqli->query($sql);
 
 
 $result2 = convertResultToArray($result2);
-    ?>
+?>

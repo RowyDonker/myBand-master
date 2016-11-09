@@ -4,6 +4,8 @@
 <link rel="alternate" type="application/rss+xml" href="20670.hosts.ma-cloud.nl/Bewijzenmap2/BAE/BOVI/PHP/myband" title="Mr.Spoopy">
 
 
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
         <meta charset="utf-8">
         <title>{$title}</title>
         <meta name="description" content="">

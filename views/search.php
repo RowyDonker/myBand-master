@@ -18,17 +18,19 @@ th {text-align: left;}
 <body>
 
 <?php
-$q = $_GET['q'];
 
-$con = mysqli_connect('localhost','20670_myband','Myband','20670_myband');
+$q = $_GET['q'];
+echo "TEST";
+$con = mysqli_connect('localhost','root','root','world');
 if (!$con) {
-    die('Could not connect: ' . mysqli_error($con));
+   die('Could not connect: ' . mysqli_error($con));
 }
 
-mysqli_select_db($con,"20670_myband");
+mysqli_select_db($con,"ajax_demo");
 $sql="SELECT * FROM Verhalen WHERE title LIKE '$q%'";
-$result = mysqli_query($con,$sql);
-
+$sql="SELECT * FROM Verhalen";
+$result = mysqli_query($sql);
+echo "TEST";
 echo "<table>
 <tr>
 <th>Writer</th>

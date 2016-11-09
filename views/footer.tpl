@@ -1,4 +1,8 @@
+
 <footer>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <div id="pagenav">
 <div id="pages">
     <a href="?action=home&page_nr=1">Page 1</a></li>

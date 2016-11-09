@@ -9,7 +9,7 @@ include 'includes/bootstrap.php';
 // Make database connection
 include 'includes/database.php';
 include 'includes/databaseOnline.php';
-// include 'includes/databaseOnline.php';
+//include 'includes/databaseOnline.php';
 
 include 'includes/func.php';
 

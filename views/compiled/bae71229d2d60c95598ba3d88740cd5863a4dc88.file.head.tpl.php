@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2016-11-03 19:46:38
+<?php /* Smarty version Smarty-3.1.18, created on 2016-11-04 14:32:49
          compiled from "views/head.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:18545774035800b2b85b34e7-58579364%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'bae71229d2d60c95598ba3d88740cd5863a4dc88' => 
     array (
       0 => 'views/head.tpl',
-      1 => 1478178604,
+      1 => 1478260723,
       2 => 'file',
     ),
   ),
@@ -26,10 +26,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 <?php if ($_valid && !is_callable('content_5800b2b86922e0_15640336')) {function content_5800b2b86922e0_15640336($_smarty_tpl) {?><!DOCTYPE html>
 
     <head>
-       <link
-rel="alternate" type="application/rss+xml"
-href="" title="Mr.Spoopy">
+<link rel="alternate" type="application/rss+xml" href="20670.hosts.ma-cloud.nl/Bewijzenmap2/BAE/BOVI/PHP/myband" title="Mr.Spoopy">
 
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <meta charset="utf-8">
         <title><?php echo $_smarty_tpl->tpl_vars['title']->value;?>
